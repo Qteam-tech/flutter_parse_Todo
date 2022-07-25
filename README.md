@@ -1,6 +1,6 @@
 # flutter_parse
 
-A new Flutter project.
+This is a Todo Flutter App With Parse Server That Locally Run on My system By Docker.
 
 ## Getting Started
 
